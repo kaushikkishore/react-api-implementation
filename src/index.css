@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#root .row {
+  padding-top: 75px;
+}
+
+.image_container {
+  width: auto;
+  height: auto;
+  background: transparent;
+  text-align: center;
+  line-height: 150px;
+}
+
+.image_container img {
+  vertical-align: middle;
+}
